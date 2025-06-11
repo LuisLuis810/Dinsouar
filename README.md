@@ -24,3 +24,4 @@ For user login (used on our website):
    ```bash
    git clone https://github.com/LuisLuis810/dinosaur-bot-auth.git
    cd dinosaur-bot-auth
+Bot invite https://discord.com/oauth2/authorize?client_id=1370470578263298189&permissions=8&scope=bot%2520applications.commands%0A
